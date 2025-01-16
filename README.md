@@ -1,10 +1,10 @@
-To get started, set your OPENAI_API_KEY environment variable, or other required keys for the providers you selected.
+# LLM System Instruction Impact Analysis  
 
-Next, edit promptfooconfig.yaml.
+This Study explores the effects of System Instruction (SI) changes on the response quality of multiple large language models (Gemini, OpenAI, Anthropic). Using 3648 tests conducted on 152 astronomy based MMLU questions, this study evaluates how modifying SI influences the effectiveness, clarity, and adaptability of LLM responses. The findings emphasize the critical role of SI in enhancing AI behavior and performance in complex scenarios.  
 
-Then run:
-```
-promptfoo eval
-```
+## Key Highlights  
+- 3648 tests across 152 MMLU questions in astronomy.  
+- Analysis of System Instruction (SI) changes on LLM response quality.  
+- Comparison of leading LLMs: Gemini, OpenAI, and Anthropic.  
 
-Afterwards, you can view the results by running `promptfoo view`
+
