@@ -7,4 +7,5 @@ This Study explores the effects of System Instruction (SI) changes on the respon
 - Analysis of System Instruction (SI) changes on LLM response quality.  
 - Comparison of leading LLMs: Gemini, OpenAI, and Anthropic.  
 
+![image](https://github.com/user-attachments/assets/2a88377b-ce45-473a-bbdb-2d2e862bc03a)
 
